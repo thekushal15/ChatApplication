@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847199044210",
+    "project_id": "chatapplicationgfg-681fc",
+    "storage_bucket": "chatapplicationgfg-681fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847199044210:android:5a9f4058e842c9872678eb",
+        "android_client_info": {
+          "package_name": "com.example.wscube_init"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847199044210-qanpe0j3ao82savil34vhdq63sp7it1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWSmoxGv1jfXKsPc8tnixlySoCuXs60yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847199044210-qanpe0j3ao82savil34vhdq63sp7it1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
